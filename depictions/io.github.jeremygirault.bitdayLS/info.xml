@@ -1,19 +1,19 @@
 <package>
-	<id>com.supermamon.oldpackage</id>
-	<name>Old Package</name>
+	<id>io.github.jeremygirault.bitdayLS</id>
+	<name>BitDay LS</name>
 	<version>1.0.0-1</version>
 	<compatibility>
 		<firmware>
-			<maxiOS>7.0</maxiOS>
+			<maxiOS>12.1.2</maxiOS>
 			<otherVersions>unsupported</otherVersions>
 			<!--
 			for otherVersions, you can put either unsupported or unconfirmed
 			-->
 		</firmware>
 	</compatibility>
-	<dependencies></dependencies>
+	<dependencies>XenHTML</dependencies>
 	<descriptionlist>
-		<description>This is an old package. Requires iOS 7 and below..</description>
+		<description>The adaptation of BitDay wallpapers on XenHTML.</description>
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>
